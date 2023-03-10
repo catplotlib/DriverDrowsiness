@@ -23,3 +23,5 @@ The system uses an Arduino board to process the pulse sensor data and activate a
 - Connect the Arduino board to the computer system.
 - Attach the pulse sensor to the driver's finger and turn on the system.
 - The vibration motor will activate if the driver's heart rate falls below the drowsiness range.# DriverDrowsiness
+
+![demo](https://imgur.com/symXrGI)
